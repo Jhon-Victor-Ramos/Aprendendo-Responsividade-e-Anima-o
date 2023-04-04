@@ -5,4 +5,4 @@
 
 ## ProjetoResponsivo
 
-<a href="https://jhon-victor-ramos.github.io/Testes/ProjetoResponsivo/index.html">Projeto Responsivo</a>
+<a href="https://jhon-victor-ramos.github.io/Testes/ProjetoResponsivo/index.html" target="_blank">Projeto Responsivo</a>
