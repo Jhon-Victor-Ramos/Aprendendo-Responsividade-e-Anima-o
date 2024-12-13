@@ -2,7 +2,7 @@
 👨‍💻<br>Testes
 </h1>
 
-> Este repositório foi feito apenas com intuito de praticar responsividade e animação em HTML, CSS e JavaScript :)
+> Este repositório foi criado com o objetivo de praticar responsividade e animações utilizando HTML, CSS e JavaScript.
 
 ## ProjetoResponsivo
 * Design inicial para um projeto fictício chamado "Elitemusic". <br>
